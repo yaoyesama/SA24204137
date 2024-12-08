@@ -1,0 +1,17 @@
+Package: SA24204137
+Type: Package
+Title: Final Project for 'Statistical Computing' course
+Version: 1.0
+Date: 2024-12-02
+Author: Liu Yao
+Maintainer: Liu Yao <2323610037@qq.com>
+Description: Homework and function are included in this package.
+License: GPL (>= 2)
+Imports: Rcpp
+Suggests: knitr, rmarkdown, MASS, boot, bootstrap, DAAG, cramer, coda, lpSolve, microbenchmark
+VignetteBuilder: knitr
+LinkingTo: Rcpp
+RoxygenNote: 7.3.2
+Encoding: UTF-8
+URL: http://github.com/yaoyesama/SA24204137
+BugReports: http://github.com/yaoyesama/SA24204137/issues
